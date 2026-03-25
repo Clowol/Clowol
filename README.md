@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+<details>
+  <summary>### ✨ Philosophy</summary>
+  > “The only true wisdom is in knowing you know nothing.”
+  > “Done is better than perfect.”
+</details>
 <!--
 **Clowol/Clowol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
