@@ -1,19 +1,24 @@
-# 😀 Welcome to  here!
-## Hi, I'm `Zsh`.👋 An algorithm rookie.🥲<br/>
-
-
-
-
-### ✨ Philosophy
+### ✨ Personal motto
 > “The only true wisdom is in knowing you know nothing.”\
 > “Done is better than perfect.”
 
+---
+# 😀 Welcome to  here!
+## Hi, I'm `Zsh`.👋 An algorithm rookie.🥲<br/>
 
+🌱 I feel grateful to live in an open-source world. I enjoy VS Code, AI, and robotics.
+
+🛠️ Current focus:
+- Mechanical electromechanical control system design
+- Robotic arm motion planning and control algorithms
+- Drone interaction and cooperative automation
+
+---
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 <details>
 
@@ -37,7 +42,19 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 
+<!--项目作品展示（可以用列表或卡片）
+### 🚀 Featured Projects
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[AI Study Assistant](https://github.com/lvy010/ai-study-assistant)** | A chatbot that helps students with CS concepts using RAG. | Python, LangChain, OpenAI, ChromaDB |
+| **[Full-Stack Blog Platform](https://github.com/lvy010/blog-platform)** | A modern blog with markdown support and comment system. | Next.js, TailwindCSS, MongoDB, NextAuth |
+| **[LeetCode Tracker](https://github.com/lvy010/leetcode-tracker)** | Automatically sync solved problems and display progress. | JavaScript, GitHub Actions, LeetCode API |
+
+> More projects can be found in my [repositories](https://github.com/lvy010?tab=repositories).
+-->
+
+---
 <!-- connect  way -->
 ### 🔗 Connect with Me
 
